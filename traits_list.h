@@ -22,22 +22,27 @@ class TraitsList {
              
         bool insert(T data) {
             // TODO
+            return true;
         }
              
         bool remove(T data) {
             // TODO
+                return true;
         }  
 
         bool find(T data) {
             // TODO
+                return true;
         }
 
         T operator [] (int index) {
             // TODO
+            return 0;
         }
              
         int size() {
             // TODO
+            return 0;
         }
 
         void print() {

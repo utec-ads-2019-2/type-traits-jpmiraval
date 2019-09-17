@@ -1,0 +1,3 @@
+C:/Users/pc-games/type-traits-jpmiraval/cmake-build-debug/CMakeFiles/type_traits_jpmiraval.dir
+C:/Users/pc-games/type-traits-jpmiraval/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc-games/type-traits-jpmiraval/cmake-build-debug/CMakeFiles/rebuild_cache.dir
