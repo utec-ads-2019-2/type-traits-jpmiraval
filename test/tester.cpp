@@ -22,8 +22,6 @@ void Tester::execute() {
         }
 
         int newSize = size - 5;
-        cout << size << " ";
-        cout << integers.size();
         ASSERT(integers.size() == newSize, "The size function has problems");
         ASSERT(floats.size() == newSize, "The size function has problems");
         ASSERT(isSorted(integers), "The integers list has problems");

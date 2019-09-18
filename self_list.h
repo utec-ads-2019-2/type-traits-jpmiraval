@@ -151,7 +151,7 @@ class SelfList {
         T operator [] (int index) {
             // TODO
                 if(index < 0 || index >= size()){
-                        throw out_of_range("Error bro! index out of range!" );
+                        throw out_of_range("Error. index out of range!" );
                 }
                 Node<T>* temp = this->head;
                 int i=0;
