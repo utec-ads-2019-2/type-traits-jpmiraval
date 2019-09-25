@@ -128,6 +128,7 @@ class SelfList {
                             return false;
                     auto temp = this->head;
                     Node<T> *temp_prev = nullptr;
+                    // Qué es actual y eturn?? Este código no va a compilar
                     if(actual->data == data)
                             eturn true;
 
